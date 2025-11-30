@@ -1,2 +1,2 @@
-# KOMO-SHOP-online-shop-codes
+# KOMO-SHOP
 online shop codes
