@@ -1,2 +1,2 @@
-# Komo_shop_100
+# Komo_shop
 online shop codes
